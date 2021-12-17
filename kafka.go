@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/gliderlabs/logspout/router"
-	"gopkg.in/Shopify/sarama.v1"
+	"github.com/Shopify/sarama"
 )
 
 func init() {
